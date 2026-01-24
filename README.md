@@ -7,13 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTakemura&layout=compact&theme=dark">
 </div>
 
-📖I’m currently learning C, HTML, CSS, Javascript and PHP
+📖I’m currently learning C, C#, HTML, CSS, Javascript and Python
 <div style="display:inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=40px  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40px/>
 
 
 </div>
