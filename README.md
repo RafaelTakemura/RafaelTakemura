@@ -1,29 +1,75 @@
-<h1>Hi, I’m @RafaelTakemura</h1>
+# Rafael Takemura
+**`Backend Developer`**
 
-💻I’m interested in becoming a software developer
-<div>
-  <a href="https://github.com/RafaelTakemura"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTakemura&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTakemura&layout=compact&theme=dark">
-</div>
+My name is Rafael Takemura Dahlem and I'm a Computer Science student based in Foz do Iguaçu, Brazil. Currently, I work as an IT Technical Support Intern at Itaipu Binacional. My academic and professional journey is focused on transitioning into a full-time Backend Developer role.
 
-📖I’m currently learning C, C#, HTML, CSS, Javascript and Python
-<div style="display:inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=40px  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40px/>
+### Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-takemura-dahlem/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaeldahlem@outlook.com)
 
 
-</div>
-
-📫 How to reach me rafaeldahlem@outlook.com
-<br>
-🎓 Currently studying Computer Science and looking for an internship
-
-<!---
-RafaelTakemura/RafaelTakemura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools
+<img
+    align="left"
+    alt="C#"
+    title="C#"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Javascript"
+    title="Javascript"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="GIT"
+    title="GIT"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Node.JS"
+    title="Node.JS"
+    width=30px
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
